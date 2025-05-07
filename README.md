@@ -1,7 +1,7 @@
 # STOCK-MARKET_TREND_ANALYSIS
 Welcome to the Stock Market Analysis and Prediction repository! This project provides data-driven insights into stock market performance using advanced Machine Learning (ML) and Deep Learning (DL) models.
 
-![](image_1.png)
+![](image_2.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -17,7 +17,6 @@ Welcome to the Stock Market Analysis and Prediction repository! This project pro
 
 ## Project Overview
 This repository contains an end-to-end data-driven stock prediction project for Prime INC. We compare two blue-chip companies—PepsiCo (PEP) and Coca-Cola (KO)—against the S&P 500 benchmark. Through exploratory data analysis, technical feature engineering, machine learning (XGBoost & LSTM) forecasting, and fundamental financial assessment, we derive actionable investment strategies.
-
 
 ## Project Objective
 - Identify which stock offers the best balance of risk and return.
@@ -79,8 +78,6 @@ This repository contains an end-to-end data-driven stock prediction project for 
 - Classification: accuracy, precision, recall, F1-score, confusion matrix
 - Risk-Adjusted: Sharpe ratio comparison vs. S&P 500
 - Model Comparison: XGBoost vs. LSTM performance on test set
-
-![](image_3.png)
 
 ## Strategic Insights & Recommendations
 - Core Holding: Coca-Cola (KO) for stability, market alignment, and strong fundamentals.
